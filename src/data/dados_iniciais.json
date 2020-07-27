@@ -1,0 +1,170 @@
+{
+  "categorias": [
+    {
+      "titulo": "Beginner's guides",
+      "link": "https://www.pathofexile.com/",
+      "cor": "#88D18A",
+      "link_extra": {
+        "text": "Path of Exile Oficial YT Channel",
+        "url": "https://youtube.com/c/grindinggear/videos"
+      },
+      "videos": [
+        {
+          "titulo": "Path of Exile is NOT as complex as you think",
+          "url": "https://www.youtube.com/watch?v=1ApNmWlWvvg"
+        },
+        {
+          "titulo": "Harvest Challenge Rewards",
+          "url": "https://www.youtube.com/watch?v=HCGY8NmLH58"
+        },
+        {
+          "titulo": "How to Value Items in Path of Exile",
+          "url": "https://www.youtube.com/watch?v=wASTB5WWH4Y"
+        },
+        {
+          "titulo": "[PoE] Stream Highlights #401 - $10 000 charity stream - part 1",
+          "url": "https://www.youtube.com/watch?v=oFHQK1zOB-Q"
+        },
+        {
+          "titulo": "{3.11] Quick Noob Tips For Harvest Garden Management",
+          "url": "https://www.youtube.com/watch?v=ayxy_lip4-Y"
+        },
+        {
+          "titulo": "Path of Exile 2 Gameplay Preview",
+          "url": "https://www.youtube.com/watch?v=V2VRRSVgCL4"
+        },
+        {
+          "titulo": "10 Tips on How to Improve your Build by avoiding common Mistakes - Path of Exile",
+          "url": "https://www.youtube.com/watch?v=SsgF5dsMmTQ"
+        },
+        {
+          "titulo": "3.11 – EARTHSHATTER BERSERKER – BIG HITS AND REWARDING PLAYSTYLE!",
+          "url": "https://www.youtube.com/watch?v=oxoJdn74aC8"
+        }        
+      ]
+    },
+    {
+      "titulo": "Builds Examples",
+      "cor": "#06070E",
+      "link_extra": {
+        "text": "Poebuilds.cc",
+        "url": "https://www.poebuilds.cc/"
+      },
+      "videos": [
+        {
+          "titulo": "Storm Brand Assassin: Clique e exploda Packs",
+          "url": "https://www.youtube.com/watch?v=qfFRgoSGq_Q"
+        },
+        {
+          "titulo": "UPDATE - 3.11 – HERALD OF THUNDER AUTOBOMBER ASSASSIN – THE NEW META BREAKER!",
+          "url": "https://www.youtube.com/watch?v=ovh5Qp5C8R8"
+        },
+        {
+          "titulo": "Path of Exile 3.11 - Oni Goroshi Tectonic Slam Build - Chieftain Marauder - PoE Harvest - PoE 3.11",
+          "url": "https://www.youtube.com/watch?v=LWXvtaFVctE"
+        },
+        {
+          "titulo": "Gear The Build - ED Contagion - ES / Chaos Inoculation is easy with Harvest!",
+          "url": "https://www.youtube.com/watch?v=jJlLzDXdHzI"
+        }
+
+      ]
+    },
+    {
+      "titulo": "League Mechanics",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "PoE Gamepedia Leagues",
+        "url": "https://pathofexile.gamepedia.com/League"
+      },
+      "videos": [
+        {
+          "titulo": "Farming the Syndicate & Jun Missions for Huge Profits – Path of Exile Currency Guide",
+          "url": "https://www.youtube.com/watch?v=wKLg4rKWNFo"
+        },
+        {
+          "titulo": "PoE 3.11 - A Guide on how to Delve and make Exalts",
+          "url": "https://www.youtube.com/watch?v=ZP6mro0XaFk"
+        },
+        {
+          "titulo": "PATH of EXILE 3.3.0: INCURSION & TEMPLE OF ATZOATL - Walkthrough & Guide",
+          "url": "https://www.youtube.com/watch?v=TA-gE5qsWSc"
+        },
+        {
+          "titulo": "PATH of EXILE HARVEST Gardening Guide for Confused Exiles",
+          "url": "https://www.youtube.com/watch?v=AgCRW1NWT6A"
+        }
+      ]
+    },
+    {
+      "titulo": "Crafting",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Craft Of Exile",
+        "url": "https://www.craftofexile.com"
+      },
+      "videos": [
+        {
+          "titulo": "[PATH OF EXILE] – 3.11 – HARVEST CRAFTING – MIRROR TIER ITEMS FOR LOW BUDGET!",
+          "url": "https://www.youtube.com/watch?v=DwsmNxQ41bw"
+        },
+        {
+          "titulo": "[3.11] Como fazer um imprint e salvar seu item no crafting",
+          "url": "https://www.youtube.com/watch?v=SbjEHFrbaEg"
+        },
+        {
+          "titulo": "How I created My AutoBomber 'Mirror-Worthy' Staff",
+          "url": "https://www.youtube.com/watch?v=liL-3RGLVt8"
+        }
+      ]
+    },
+    {
+      "titulo": "Currency?",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "PoE Trade",
+        "url": "https://www.pathofexile.com/trade/search/Harvest"
+      },
+      "videos": [
+        {
+          "titulo": "3.11 – 200+ SSF ANCIENT ORBS FROM BEACHHEADS VS UNIQUE BELTS!",
+          "url": "https://www.youtube.com/watch?v=an1_EHNtBB4"
+        },
+        {
+          "titulo": "HOW TO MAKE CURRENCY IN POE! BASICS AND DIFFERENT STRATEGIES!",
+          "url": "https://www.youtube.com/watch?v=m_ceYUhUwQE"
+        },
+        {
+          "titulo": "Here are some of my favourite seeds in harvest league!",
+          "url": "https://www.youtube.com/watch?v=kagFM7HmhVI"
+        },
+        {
+          "titulo": "Target Farming Harvest Seeds for Huge Profits (Over 900c/hr) - Path of Exile Currency Farming Guide",
+          "url": "https://www.youtube.com/watch?v=v32Qolpjxjc"
+        },
+        {
+          "titulo": "Como lucrar com seus crafts na Harvest",
+          "url": "https://www.youtube.com/watch?v=vUZLuv0RVoM"
+        }
+      ]
+    },
+    {
+      "titulo": "Others",
+      "cor": "#DB3A34",
+      "videos": [
+        {
+          "titulo": "Path of Exile 3.11: HARVEST DAY #32-34 Highlights PRINTING DOCTORS, BEST BOW EVER? @Zizaran RIP.",
+          "url": "https://www.youtube.com/watch?v=wWEHs916tF8"
+        },
+        {
+          "titulo": "Here are some of my favourite seeds in harvest league!",
+          "url": "https://www.youtube.com/watch?v=kagFM7HmhVI"
+        },
+        {
+          "titulo": "Stream Highlights #397 - The 100 exalt mistake",
+          "url": "https://youtube.com/watch?v=YS6E4685_Ww"
+        }
+      ]
+    }
+  ]
+}
